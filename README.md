@@ -66,6 +66,3 @@ I also have minor experience in development of Desktop Apps using WPF and Unity.
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
