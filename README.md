@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm Junior Developer with experience in building native iOS apps. Focusing on developing architecture that makes apps highly scalable and mutable without compromising performance. Have experience in working independently and as a part of a team. Focused on learning new technologies and expanding my knowledge in the current ones to become more experienced developer.
+I'm Middle Developer with experience in building native iOS apps. Focusing on developing architecture that makes apps highly scalable and mutable without compromising performance. Have experience in working independently and as a part of a team. Focused on learning new technologies and expanding my knowledge in the current ones to become more experienced developer.
 Also love tinkering with CI/CD (Jenkins) and tests (NUnit, XCTest with Fastlane).
 
 I also have minor experience in development of Desktop Apps using WPF and Unity.  
